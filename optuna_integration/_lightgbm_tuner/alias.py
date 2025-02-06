@@ -115,7 +115,7 @@ _ALIAS_METRIC_LIST: list[dict[str, Any]] = [
     },
     {
         "metric_name": "custom",
-        "alias_names": ["none", "null", "na"],
+        "alias_names": ["none", "null", "na", "None"],
     },
     {
         "metric_name": "rmse",
